@@ -1,0 +1,7 @@
+{
+    "require": {
+        "psr/log": "^3.0",
+        "psr/event-dispatcher": "^1.0",
+        "php": "8.3"
+    }
+}
